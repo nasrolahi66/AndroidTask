@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="first_quarter">First quarter</string>
+    <string name="second_quarter">Second quarter</string>
+    <string name="third_quarter">Third Quarter</string>
+    <string name="fourth_quarter">Fourth Quarter</string>
+    <string name="jan">JAN</string>
+</resources>
